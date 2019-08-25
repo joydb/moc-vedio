@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="immoc-vedios-dev-common" />
+        <module name="immoc-vedios-dev-mapper" />
+        <module name="immoc-vedios-dev-miniapi" />
+        <module name="immoc-vedios-dev-pojo" />
+        <module name="immoc-vedios-dev-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="immoc-vedios-dev-common" target="1.8" />
+      <module name="immoc-vedios-dev-mapper" target="1.8" />
+      <module name="immoc-vedios-dev-miniapi" target="1.8" />
+      <module name="immoc-vedios-dev-pojo" target="1.8" />
+      <module name="immoc-vedios-dev-service" target="1.8" />
+      <module name="moc-vedio" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

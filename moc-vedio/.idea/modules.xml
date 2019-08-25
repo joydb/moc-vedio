@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/immoc-vedios-dev-common/immoc-vedios-dev-common.iml" filepath="$PROJECT_DIR$/immoc-vedios-dev-common/immoc-vedios-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immoc-vedios-dev-mapper/immoc-vedios-dev-mapper.iml" filepath="$PROJECT_DIR$/immoc-vedios-dev-mapper/immoc-vedios-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immoc-vedios-dev-miniapi/immoc-vedios-dev-miniapi.iml" filepath="$PROJECT_DIR$/immoc-vedios-dev-miniapi/immoc-vedios-dev-miniapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immoc-vedios-dev-pojo/immoc-vedios-dev-pojo.iml" filepath="$PROJECT_DIR$/immoc-vedios-dev-pojo/immoc-vedios-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immoc-vedios-dev-service/immoc-vedios-dev-service.iml" filepath="$PROJECT_DIR$/immoc-vedios-dev-service/immoc-vedios-dev-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpatest/jpatest.iml" filepath="$PROJECT_DIR$/jpatest/jpatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moc-vedio.iml" filepath="$PROJECT_DIR$/moc-vedio.iml" />
+    </modules>
+  </component>
+</project>

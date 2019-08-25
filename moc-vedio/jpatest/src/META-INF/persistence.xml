@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="NewPersistenceUnit">
+        <class>com.dbstudy.mapper.BgmEntity</class>
+        <class>com.dbstudy.mapper.CommentsEntity</class>
+        <class>com.dbstudy.mapper.SearchRecordsEntity</class>
+        <class>com.dbstudy.mapper.UsersEntity</class>
+        <class>com.dbstudy.mapper.UsersFansEntity</class>
+        <class>com.dbstudy.mapper.UsersLikeVideosEntity</class>
+        <class>com.dbstudy.mapper.UsersReportEntity</class>
+        <class>com.dbstudy.mapper.VideosEntity</class><properties><property name="toplink.jdbc.url" value="jdbc:mysql://localhost:3306/imooc_vedio_dev"/><property name="toplink.jdbc.driver" value="com.mysql.jdbc.Driver"/><property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/imooc_vedio_dev"/><property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/><property name="openjpa.ConnectionURL" value="jdbc:mysql://localhost:3306/imooc_vedio_dev"/><property name="openjpa.ConnectionDriverName" value="com.mysql.jdbc.Driver"/><property name="eclipselink.jdbc.url" value="jdbc:mysql://localhost:3306/imooc_vedio_dev"/><property name="eclipselink.jdbc.driver" value="com.mysql.jdbc.Driver"/></properties>
+    </persistence-unit>
+</persistence>
